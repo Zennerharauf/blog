@@ -4,6 +4,7 @@ import Image from 'next/image'
 import fds  from '@/public/fds.jpg'
 import fdsi from '@/public/fdsi.jpg'
 import efd from '@/public/efd.jpg'
+import Comment from '@/components/comment'
 
 
 export default function Blog() {
@@ -200,6 +201,7 @@ export default function Blog() {
                             </div>
                         </div>
                     </div>
+                    <Comment/>
                 </div>
             </div>
         </section>

@@ -31,8 +31,3 @@ export default function Fdsi() {
       </div>
     );
   }
-  
-
-
-
-{/* <div className="leading-relaxed mt-1 mb-1 text-xl text-[#363b56]"> */}
